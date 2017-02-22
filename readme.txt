@@ -1,6 +1,2 @@
-测试文
-件
-Git tracks changes.
-Git tracks changes of files.
-My stupid boss!
-1
+Git is a version control system.
+Git is free software.
